@@ -16,6 +16,11 @@ implanté dans une carte Raspberry.
 
 ![WhatsApp Image 2022-02-26 at 21 04 07](https://user-images.githubusercontent.com/81538798/155858278-09c99dc3-a7e5-42e3-b3fd-0701a0298858.jpeg)
 
+Application pour visualiser les donnees en temps reel:
+
+![image](https://user-images.githubusercontent.com/81538798/155859514-abce1b28-78b9-43fa-abf9-e586ee5e0741.png)
+
+
 Le refroidissement (climatiseur ou ventilateur) : 
 
 
