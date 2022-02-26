@@ -9,7 +9,6 @@ rideaux d’une façon automatisée en fonction de la luminosité extérieur
 /mobile qui permet la visualisation et le contrôle manuel du système 
 implanté dans une carte Raspberry.
 
-Le refroidissement (climatiseur ou ventilateur) : 
 
 ![image](https://user-images.githubusercontent.com/81538798/155858437-f6889bbb-d6ff-4213-bc1b-1eaebe2d3d43.png)
 
@@ -17,6 +16,7 @@ Le refroidissement (climatiseur ou ventilateur) :
 
 ![WhatsApp Image 2022-02-26 at 21 04 07](https://user-images.githubusercontent.com/81538798/155858278-09c99dc3-a7e5-42e3-b3fd-0701a0298858.jpeg)
 
+Le refroidissement (climatiseur ou ventilateur) : 
 
 
 L’idée derrière ce projet 
