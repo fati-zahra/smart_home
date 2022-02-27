@@ -5,11 +5,15 @@ Volets roulants et  refroidissement
 Le refroidissement (climatiseur ou ventilateur) : 
 
 
-la réalisation d’un système embarqué qui contrôle les 
-rideaux d’une façon automatisée en fonction de la luminosité extérieur 
-(jour ou nuit) à l’aide des servomoteurs. Ainsi qu’une application web 
-/mobile qui permet la visualisation et le contrôle manuel du système 
-implanté dans une carte Raspberry.
+L’idée derrière ce projet 
+est de gagner en confort, ainsi que de réaliser des économies d’énergie (et 
+donc d’argent) selon les étapes suivant :
+▪ Suivre la température et l’humidité d’une pièce.
+
+▪ Piloter le ventilateur de la salle de bain ou de la cuisine.
+
+▪ Possibilité de déclencher le chauffage selon une condition prédéfinie.
+
 
 
 ![image](https://user-images.githubusercontent.com/81538798/155858437-f6889bbb-d6ff-4213-bc1b-1eaebe2d3d43.png)
@@ -26,14 +30,11 @@ Application pour visualiser les donnees en temps reel:
 Volets roulants :
 
 
-L’idée derrière ce projet 
-est de gagner en confort, ainsi que de réaliser des économies d’énergie (et 
-donc d’argent) selon les étapes suivant :
-▪ Suivre la température et l’humidité d’une pièce.
-
-▪ Piloter le ventilateur de la salle de bain ou de la cuisine.
-
-▪ Possibilité de déclencher le chauffage selon une condition prédéfinie.
+la réalisation d’un système embarqué qui contrôle les 
+rideaux d’une façon automatisée en fonction de la luminosité extérieur 
+(jour ou nuit) à l’aide des servomoteurs. Ainsi qu’une application web 
+/mobile qui permet la visualisation et le contrôle manuel du système 
+implanté dans une carte Raspberry.
 
 
 ![image](https://user-images.githubusercontent.com/81538798/155858451-2ca7271c-c9ad-40f9-b6fd-7ae69130a3b9.png)
