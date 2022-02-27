@@ -1,7 +1,9 @@
 # smart_home
 Volets roulants et  refroidissement
 
-Volets roulants :
+
+Le refroidissement (climatiseur ou ventilateur) : 
+
 
 la réalisation d’un système embarqué qui contrôle les 
 rideaux d’une façon automatisée en fonction de la luminosité extérieur 
@@ -21,7 +23,7 @@ Application pour visualiser les donnees en temps reel:
 ![image](https://user-images.githubusercontent.com/81538798/155859514-abce1b28-78b9-43fa-abf9-e586ee5e0741.png)
 
 
-Le refroidissement (climatiseur ou ventilateur) : 
+Volets roulants :
 
 
 L’idée derrière ce projet 
